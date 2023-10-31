@@ -1,3 +1,3 @@
-# bunkercoin.xyz
+# magicoin.de
 
-The official website for the Bunkercoin project, available at https://bunkercoin.xyz (hijack)!
+The community-made website for MagiCoin (XMG) available at [magicoin.de](https://magicoin.de)

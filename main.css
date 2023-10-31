@@ -3,8 +3,8 @@
     text-align: center;
 }
 
-.navbar .navbar-green-icon {
-    color: #77C277;
+.navbar .navbar-blue-icon {
+    color: #1e62f1;
 }
 
 .navbar .navbar-button {
@@ -54,15 +54,15 @@ a:visited {
 
 a:hover,
 a:active {
-    color: #77C277;
+    color: #1e62f1;
     text-decoration: underline;
 }
 
 
 /* Selection customization™ */
 ::selection {
-    color: #77C277;
-    background-color: #F0F0F0;
+    color: #1e62f1;
+    background-color: #a4abce;
 }
 
 
